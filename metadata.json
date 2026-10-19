@@ -1,0 +1,6 @@
+{
+  "name": "Nusantara Cargo E-Shipment & Logistics",
+  "description": "Sistem Ekspedisi Darat E-Business dengan fitur Send-Receive Automatic, kalkulasi tarif Maps API, auto-dispatch kurir, pelacakan live timeline, konsol hub, dan portal verifikasi OTP penerima.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
